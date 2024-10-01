@@ -6,6 +6,7 @@
 
 The core mechanic of **TriangleGo** is to interact with triangles in the environment, allowing players to shield themselves from projectiles and earn special rewards based on how they use the geometry. With its dynamic approach to shape-based gameplay, **TriangleGo** offers an exciting twist to the traditional platforming genre.
 
+**game link**：https://play.unity.com/en/games/b3ab1332-9e4b-46a4-a6ea-46d230d18722/trianglego/edit
 ## Features
 
 - **Innovative Shape-Based Mechanics**: Players can manipulate nearby triangles to protect themselves from enemies, using their unique properties to gain advantages.
